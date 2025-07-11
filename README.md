@@ -40,6 +40,10 @@ Currently focused on:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind" />
+
+
 </p>
 
 ### Tools:
@@ -53,5 +57,5 @@ Currently focused on:
 
 ### Connect with Me :
 
-<a href="[https://www.linkedin.com/in/mohamedaboalhadied2682006](https://www.linkedin.com/in/sarah-metwaly-925590245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> <a href="mailto:sarah.metwaly.internships@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a> <a href="https://github.com/mohamedhadied23/mohamedhadied23/tree/main" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=GitHub&logoColor=white"/> </a>
+<a href="www.linkedin.com/in/sarah-metwaly-925590245" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> <a href="mailto:sarah.metwaly.internships@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a> <a href="https://github.com/Sarah-Metwaly" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=GitHub&logoColor=white"/> </a>
 ---
